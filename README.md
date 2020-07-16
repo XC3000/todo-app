@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+https://todo-app-cp-ee748.firebaseapp.com/ - automatic!
+[GitHub](https://todo-app-cp-ee748.firebaseapp.com/)
 
 ## Available Scripts
 
